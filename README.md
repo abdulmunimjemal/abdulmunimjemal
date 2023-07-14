@@ -28,6 +28,7 @@ Welcome to my GitHub profile! I am Abdulmunim Jundurahman, a Software Engineerin
 - Python
 - Django
 - Django REST Framework
+- Exploring the ML Algorithms 
 
 <!--
 ## GitHub Stats
