@@ -1,59 +1,57 @@
+# Hello, I'm Abdulmunim Jundurahman Jemal 👋
+
+I'm a software engineering student at Addis Ababa University. My goal is to become a Machine Learning Engineer.
+
+## About Me
+
+- 🌱 I'm passionate about machine learning and artificial intelligence.
+- 💻 I enjoy programming, particularly in the field of ML and AI.
+- 📖 I also find solace in reading the Quran and have a love for poetry.
+- 🎮 In my free time, I enjoy watching anime.
+
+## My Skills
+
+- **Programming Languages:** Python, Java, 
+- **Web Development:** HTML, CSS, JavaScript
+- **Machine Learning:** TensorFlow, PyTorch, scikit-learn
+- **Data Science:** Pandas, NumPy, Matplotlib
+- **Version Control:** Git, GitHub
+
+## Languages
+
+- English (Fluent)
+- Arabic (Beginner)
+- Amharic (Native)
+- Afan Oromo (Mother tongue)
+
 <!--
-**abdulmunimjemal/abdulmunimjemal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Top Projects
 
-Here are some ideas to get you started:
+- [Project 1](link-to-project-1): Brief description of Project 1.
+- [Project 2](link-to-project-2): Brief description of Project 2.
+- [Project 3](link-to-project-3): Brief description of Project 3.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Certifications
+
+- [Certification 1](link-to-certification-1): Describe the certification and its relevance.
+- [Certification 2](link-to-certification-2): Describe the certification and its relevance.
 -->
-### Hi there 👋, I am
-##     Abdulmunim Jundurahman
 
-[![](https://img.shields.io/github/followers/abdulmunimjemal?label=Follow&style=social)](https://github.com/abdulmunimjemal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulmunim%20Jundurahman-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abdulmunim-jemal/)
-
-Software Engineering Student | Backend Developer
-
-Welcome to my GitHub profile! I am Abdulmunim Jundurahman, a Software Engineering student at AAiT, specializing in Backend Development. I am in a continuous learning to work with Java, Python, Django, and Django REST Framework.
-
-## Skills
-
-- Java
-- Python
-- Django
-- Django REST Framework
-- Exploring the ML Algorithms 
-
-<!--
 ## GitHub Stats
 
-![Abdulmunim's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulmunimjemal&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulmunimjemal&show_icons=true&count_private=true&hide=contribs)
 
-## Projects
 
-Here are some of my notable projects:
+## Education
 
-- Project 1: [Bete](https://github.com/abdulmunimjemal/bete)
-  - Description: Bete is a home rental website planned to solve problems related to home rental services in Ethiopia
-  - Technologies used: Python Django, Javascript and pure CSS
+- **Bachelor of Science in Software Engineering**
+  - Addis Ababa University (2021 - Present)
 
-- Project 2: [Banking System](https://github.com/abdulmunimjemal/BankSystem)
-  - Description: It is done as a final project for the course Object Oriented Programming in Java
-  - Technologies used: Core Java, Swing, MySQL 
--->
-## Contact Me
+## Connect with Me
 
-Feel free to connect with me through the following channels:
+- 📫 You can reach me at [your-email@example.com](mailto:ajjemal729@example.com)
+- 💼 Check out my LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/abdulmunim-jemal)
+<!-- - 🌐 Visit my personal website: [YourWebsite.com](https://www.yourwebsite.com) -->
 
-- Email: abdulmunimjemal@gmail.com
-- Telegram: [@PeacefulD](https://t.me/PeacefulD)
-- Twitter: [@abdulmunimjemal](https://twitter.com/abdulmunimjemal)
-- Instagram: [@amunim_j](https://www.instagram.com/amunim_j)
-- LinkedIn: [Abdulmunim Jundurahman](https://www.linkedin.com/in/abdulmunim-jemal/)
+Feel free to explore my repositories and connect with me. Let's learn and grow together!
 
