@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulmunim (Munim) </h1>
 <h3 align="center">Passionate Software Engineering Student with a Flair for Machine Learning and Web Design. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulmunimjemal&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmunimjemal" /> </p>
 
 - 🔭 I’m currently working on **Personal Projects** and **Workspace Tasks**
 
@@ -14,7 +13,8 @@
 - 📄 Know about my experiences [https://abdulmunim.me/](https://abdulmunim.me/)
 
 - ⚡ Fun fact **Proud member of the Survey Corps**
-
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulmunimjemal&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmunimjemal" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/peacefulD" target="blank"><img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="abdulmunimjemal" height="30" width="40" /></a>
