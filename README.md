@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulmunim (Munim) </h1>
-<h3 align="center">Passionate Software Engineering Student with a Flair for Machine Learning and Web Design. </h3>
+<h3 align="center">Passionate Software Engineering Student with a Flair for Machine Learning and Backend Engineering. </h3>
 
 
 - 🔭 I’m currently working on **Personal Projects** and **Workspace Tasks**
