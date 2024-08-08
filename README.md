@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdulmunim (Munim) </h1>
-<h3 align="center">Passionate Software Engineering Student with a Flair for Machine Learning and Backend Engineering. </h3>
+<h3 align="center">Passionate Software Engineer with a Flair for Backend Engineering and Machine Learning. </h3>
 
 
 - 🔭 I’m currently working on **Personal Projects** and **Workspace Tasks**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, JS Frameworks, Transformers**
 
-- 💬 Ask me about **Backend Development, API Design, Machine Learning, Natural Language Processing**
+- 💬 Ask me about **Backend Development, API Design, Scalability, DevOps, Machine Learning, Natural Language Processing, MLOps**
 
 - 📫 Reach me **[Here](https://abdulmunim.me/#contact)**
 
